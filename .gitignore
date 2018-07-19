@@ -3,6 +3,10 @@
 .inventory
 .ssh-config
 .vagrant
-GUESTS.rb
-Vagrantfile
 ansible.cfg
+
+# Build Artifacts
+SHA256SUMS
+SHA256SUMS.gpg
+ubuntu-18.04-server-amd64-unattended.iso
+ubuntu-18.04-server-amd64.iso
